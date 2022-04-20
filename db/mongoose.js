@@ -9,4 +9,3 @@ mongoose
   });
 
   
-//D:\2-Techling\mongodb\bin\mongod.exe --dbpath=D:\2-Techling\mongodb-data
